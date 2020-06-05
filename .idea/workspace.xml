@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98399b7c-6ac8-4442-bfda-2d31e4ef734c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SearchEngine.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SearchEngine.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SearchEngine/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/SearchEngine/views.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +30,11 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -48,19 +53,29 @@
       <recent name="C:\Users\82626\Desktop\知识获取\作业2\SearchEngine\statics" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.views">
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SearchEngine" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SearchEngine" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SearchEngine/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="SearchEngine" type="Python.DjangoServer" factoryName="Django server">
       <module name="SearchEngine" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,6 +99,23 @@
       <option name="customRunCommand" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.views" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -96,6 +128,7 @@
       <option name="presentableId" value="Default" />
       <updated>1591198792421</updated>
       <workItem from="1591198794107" duration="23876000" />
+      <workItem from="1591321997359" duration="32907000" />
     </task>
     <servers />
   </component>
@@ -107,10 +140,77 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591333472367">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1591333472367" />
+    <state x="499" y="182" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591344002909">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="182" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1591344002908" />
+    <state x="371" y="60" key="CommitChangelistDialog2" timestamp="1591363698172">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="371" y="60" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1591363698172" />
+    <state width="978" height="461" key="DebuggerActiveHint" timestamp="1591363072464">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="978" height="461" key="DebuggerActiveHint/0.0.1536.864@0.0.1536.864" timestamp="1591363072464" />
+    <state width="1493" height="705" key="GridCell.Tab.0.bottom" timestamp="1591363368431">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="705" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1591363368431" />
+    <state width="1493" height="705" key="GridCell.Tab.0.center" timestamp="1591363368431">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="705" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1591363368431" />
+    <state width="1493" height="705" key="GridCell.Tab.0.left" timestamp="1591363368430">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="705" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1591363368430" />
+    <state width="1493" height="705" key="GridCell.Tab.0.right" timestamp="1591363368431">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="705" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1591363368431" />
+    <state width="1493" height="705" key="GridCell.Tab.1.bottom" timestamp="1591363368431">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="705" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1591363368431" />
+    <state width="1493" height="705" key="GridCell.Tab.1.center" timestamp="1591363368431">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="705" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1591363368431" />
+    <state width="1493" height="705" key="GridCell.Tab.1.left" timestamp="1591363368431">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="705" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1591363368431" />
+    <state width="1493" height="705" key="GridCell.Tab.1.right" timestamp="1591363368431">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="705" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1591363368431" />
+    <state x="272" y="77" key="SettingsEditor" timestamp="1591274885807">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="272" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1591274885807" />
+    <state width="775" height="439" key="XDebugger.FullValuePopup" timestamp="1591344281953">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="775" height="439" key="XDebugger.FullValuePopup/0.0.1536.864@0.0.1536.864" timestamp="1591344281953" />
+    <state x="461" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1591322006969">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="461" y="260" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1591322006969" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Search_Engine$views.coverage" NAME="views Coverage Results" MODIFIED="1591363035707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SearchEngine" />
   </component>
 </project>
